@@ -31,12 +31,12 @@ Badges from: https://dev.to/envoy_/150-badges-for-github-pnk
 
 #### Tools and Technologies
 <!---![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;--->
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GNU](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
+![Fedora](https://img.shields.io/badge/Fedora-294172?&logo=fedora&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=platic&logo=git&logoColor=white)&nbsp;
+![Fish](https://img.shields.io/badge/Fish%20shell-4EAA25?style=platic&logo=powershell&logoColor=white)&nbsp;
 
 #### IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=platic&logo=visual-studio-code&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=platic&logo=neovim&logoColor=white)&nbsp;
 
