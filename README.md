@@ -31,7 +31,7 @@ Badges from: https://dev.to/envoy_/150-badges-for-github-pnk
 
 #### Tools and Technologies
 <!---![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;--->
-![Fedora](https://img.shields.io/badge/Fedora-294172?&logo=fedora&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux%20-FCC624?style=flat&logo=LINUX&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=platic&logo=git&logoColor=white)&nbsp;
 ![Fish](https://img.shields.io/badge/Fish%20shell-4EAA25?style=platic&logo=powershell&logoColor=white)&nbsp;
 
