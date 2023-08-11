@@ -19,12 +19,12 @@ how to  make : https://javascript.plainenglish.io/how-to-make-custom-language-ba
 ;--->
 #### Tools and Technologies
 <!---![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;--->
-![Linux](https://img.shields.io/badge/Linux%20-FCC624?style=flat&logo=LINUX&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=platic&logo=git&logoColor=white)&nbsp;
-![Fish](https://img.shields.io/badge/Fish%20shell-4EAA25?style=platic&logo=powershell&logoColor=white)&nbsp;
+[![Linux](https://img.shields.io/badge/Linux%20-FCC624?style=flat&logo=LINUX&logoColor=black)](https://www.linux.org/)&nbsp;
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=platic&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+[![Fish](https://img.shields.io/badge/Fish%20shell-4EAA25?style=platic&logo=powershell&logoColor=white)](https://fishshell.com/docs/current/)&nbsp;
 
 #### IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=platic&logo=visual-studio-code&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=platic&logo=neovim&logoColor=white)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=platic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
+[![Vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=platic&logo=neovim&logoColor=white)](https://neovim.io/)&nbsp;
 
