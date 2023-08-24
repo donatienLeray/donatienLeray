@@ -2,7 +2,6 @@
 
 - 🔧 I'm currently working on
    - [Cocktell.de](https://github.com/Blacktea1501/Cocktell.de)
-   - my [Arch](https://archlinux.org/) installation
 - 📖 I'm currently learning
    - [neovim](https://neovim.io/)
    - [GO](https://go.dev/)
