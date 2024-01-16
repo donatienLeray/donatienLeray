@@ -1,10 +1,11 @@
 ### Call me Dodo 🦤
 
 - 🔧 I'm currently working on
-   - [Cocktell.de](https://github.com/Blacktea1501/Cocktell.de)
+   - A smal linguistic python game
+   <!---- [Cocktell.de](https://github.com/Blacktea1501/Cocktell.de)--->
 - 📖 I'm currently learning
    - [neovim](https://neovim.io/)
-   - [GO](https://go.dev/)
+   - [C++](https://cplusplus.com/)
    - [Fish](https://fishshell.com/docs/current/) scripting
 
 ### Some fun stats:
