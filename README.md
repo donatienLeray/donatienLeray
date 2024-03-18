@@ -1,7 +1,7 @@
 ### Call me Dodo 🦤
 
 - 🔧 I'm currently working on
-   - A smal linguistic python game
+   - A smal linguistic python game: [WortEx](https://github.com/donatienLeray/WortEx)
    <!---- [Cocktell.de](https://github.com/Blacktea1501/Cocktell.de)--->
 - 📖 I'm currently learning
    - [neovim](https://neovim.io/)
