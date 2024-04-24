@@ -4,8 +4,7 @@
    - A smal linguistic python game: [WortEx](https://github.com/donatienLeray/WortEx)
    <!---- [Cocktell.de](https://github.com/Blacktea1501/Cocktell.de)--->
 - 📖 I'm currently learning
-   - [neovim](https://neovim.io/)
-   - [C++](https://cplusplus.com/)
+   - [ROS2 humble](https://docs.ros.org/en/humble/index.html)
    - [Fish](https://fishshell.com/docs/current/) scripting
 
 ### Some fun stats:
@@ -23,7 +22,7 @@ how to  make : https://javascript.plainenglish.io/how-to-make-custom-language-ba
 [![Linux](https://img.shields.io/badge/Linux%20-FCC624?style=flat&logo=LINUX&logoColor=black)](https://www.linux.org/)&nbsp;
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=platic&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
 [![Fish](https://img.shields.io/badge/Fish%20shell-4EAA25?style=platic&logo=powershell&logoColor=white)](https://fishshell.com/docs/current/)&nbsp;
-
+[![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white&logoWidth=30)](https://www.ros.org/)
 #### IDEs
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=platic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
