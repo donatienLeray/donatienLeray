@@ -1,11 +1,12 @@
 ### Call me Dodo 🦤
 
 - 🔧 I'm currently working on
-   - A smal linguistic python game: [WortEx](https://github.com/donatienLeray/WortEx)
+   - A nice neofetch theme with a cowsay like function: [bmofetch](https://github.com/donatienLeray/bmofetch)
    <!---- [Cocktell.de](https://github.com/Blacktea1501/Cocktell.de)--->
 - 📖 I'm currently learning
-   - [ROS2 humble](https://docs.ros.org/en/humble/index.html)
    - [Fish](https://fishshell.com/docs/current/) scripting
+   - [Bash](https://www.gnu.org/software/bash/) scripting
+   - working with [NixOS ❄️](https://nixos.org/)
 
 ### Some fun stats:
   <p align=left>
@@ -18,11 +19,25 @@ Badges from: https://github.com/Ileriayo/markdown-badges
 how to  make : https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b?gi=c4af13295566
 ;--->
 #### Tools and Technologies
-<!---[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white)](https://archlinux.org/)&nbsp;--->
-[![Linux](https://img.shields.io/badge/Linux%20-FCC624?style=flat&logo=LINUX&logoColor=black)](https://www.linux.org/)&nbsp;
+
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=platic&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
-[![Fish](https://img.shields.io/badge/Fish%20shell-4EAA25?style=platic&logo=powershell&logoColor=white)](https://fishshell.com/docs/current/)&nbsp;
+![Fish](https://img.shields.io/badge/fish-shell?style=flat&logo=fishshell&logoColor=green&logoSize=auto&color=black&cacheSeconds=3600)
+![Bash](https://img.shields.io/badge/bash-green?style=flat&logo=gnubash&logoColor=white&logoSize=auto&color=green&cacheSeconds=3600)
+
+<!--
+[![Linux](https://img.shields.io/badge/Linux%20-FCC624?style=flat&logo=LINUX&logoColor=black)](https://www.linux.org/)&nbsp;
 [![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white&logoWidth=30)](https://www.ros.org/)
+[![Fish](https://img.shields.io/badge/Fish%20shell-4EAA25?style=platic&logo=powershell&logoColor=white)](https://fishshell.com/docs/current/)&nbsp;
+--->
+####  OS
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)&nbsp;
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)&nbsp;
+![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=flat&logo=kubuntu&logoColor=white)&nbsp;
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=flat&logo=NixOS&logoColor=white)&nbsp;
+![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=flat&logo=zorin&logoColor=white)&nbsp;
+
 #### IDEs
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=platic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
