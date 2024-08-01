@@ -17,6 +17,8 @@
 <!---
 Badges from: https://github.com/Ileriayo/markdown-badges
 how to  make : https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b?gi=c4af13295566
+create own badges on: https://shields.io/badges
+get the needed slug (logo): https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 ;--->
 #### Tools and Technologies
 
