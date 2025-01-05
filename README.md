@@ -6,7 +6,7 @@
 - 📖 I'm currently learning
    - [Fish](https://fishshell.com/docs/current/) scripting
    - [Bash](https://www.gnu.org/software/bash/) scripting
-   - working with [NixOS ❄️](https://nixos.org/)
+<!-- - working with [NixOS ❄️](https://nixos.org/) -->
 
 ### Some fun stats:
   <p align=left>
