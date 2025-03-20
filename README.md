@@ -1,14 +1,16 @@
 ### Call me Dodo 🦤
 
-- 🔧 I'm currently working on
-   - A nice neofetch theme with a cowsay like function: [bmofetch](https://github.com/donatienLeray/bmofetch)
-   - [Toychain-ARGoS](https://github.com/teksander/toychain-argos) to research about [Blockchain technology for mobile multi-robot systems](https://www.nature.com/articles/s44287-024-00034-9) 
+🔧 I'm currently working on
+   - [Toychain-ARGoS](https://github.com/teksander/toychain-argos) to research about [Blockchain technology for mobile multi-robot systems](https://www.nature.com/articles/s44287-024-00034-9).
+   - Tutorinator (not public yet) to automate assignment grading on multiple git repos.
+   - A nice neofetch theme with a cowsay like function: [bmofetch](https://github.com/donatienLeray/bmofetch).
    <!---- - Proof-of-Stake protoccoll for [Toychain](https://github.com/teksander/toychain): [A Simple Blockchain for Research in Swarm Robotics](https://arxiv.org/abs/2407.06630)
    [Cocktell.de](https://github.com/Blacktea1501/Cocktell.de)--->
-- 📖 I'm currently learning
-   - [Fish](https://fishshell.com/docs/current/) scripting
-   - [Bash](https://www.gnu.org/software/bash/) scripting
-<!-- - working with [NixOS ❄️](https://nixos.org/) -->
+📖 I'm currently learning
+   - How to utilise [Jupyter Notebook](https://jupyter.org/) for research.
+<!-- - working with [NixOS ❄️](https://nixos.org/) 
+- [Fish](https://fishshell.com/docs/current/) scripting
+- [Bash](https://www.gnu.org/software/bash/) scripting-->
 
 ### Some fun stats:
   <p align=left>
