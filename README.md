@@ -36,15 +36,15 @@ get the needed slug (logo): https://github.com/simple-icons/simple-icons/blob/ma
 [![Fish](https://img.shields.io/badge/Fish%20shell-4EAA25?style=platic&logo=powershell&logoColor=white)](https://fishshell.com/docs/current/)&nbsp;
 --->
 ####  OS
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)&nbsp;
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)&nbsp;
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=flat&logo=kubuntu&logoColor=white)&nbsp;
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=flat&logo=NixOS&logoColor=white)&nbsp;
-![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)&nbsp;
+![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white)&nbsp;
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=flat&logo=zorin&logoColor=white)&nbsp;
+<!--![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=flat&logo=NixOS&logoColor=white)&nbsp;-->
 
 #### IDEs
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=platic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
-[![Vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=platic&logo=neovim&logoColor=white)](https://neovim.io/)&nbsp;
+<!--[![Vim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=platic&logo=neovim&logoColor=white)](https://neovim.io/)&nbsp;-->
