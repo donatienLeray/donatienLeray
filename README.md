@@ -2,7 +2,7 @@
 
 🔧 I'm currently working on
    - [Toychain-ARGoS](https://github.com/teksander/toychain-argos) to research about [Blockchain technology for mobile multi-robot systems](https://www.nature.com/articles/s44287-024-00034-9).
-   - Tutorinator (not public yet) to automate assignment grading on multiple git repos.
+   - [Tutorinator](https://github.com/donatienLeray/tutorinator) to automate assignment grading on multiple git repos.
    - A nice neofetch theme with a cowsay like function: [bmofetch](https://github.com/donatienLeray/bmofetch).
    <!---- - Proof-of-Stake protoccoll for [Toychain](https://github.com/teksander/toychain): [A Simple Blockchain for Research in Swarm Robotics](https://arxiv.org/abs/2407.06630)
    [Cocktell.de](https://github.com/Blacktea1501/Cocktell.de)--->
